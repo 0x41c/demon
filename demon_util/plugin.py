@@ -12,7 +12,7 @@ import idaapi
 # Gotta get a new prefs system soon when I have the time
 prefs = {
   'fix_arc': True,
-  'enabled': False,
+  'enabled': True,
 }
 
 
